@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>AASTU - Restaurant Admin Dashboard </title>
     
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-	<link rel="stylesheet" href="vendor/chartist/css/chartist.min.css">
-    <link href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
+	<link rel="stylesheet" href="assets/vendor/chartist/css/chartist.min.css">
+    <link href="assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 	
 </head>
 <body>
@@ -86,7 +86,7 @@
 											<li>
 												<div class="timeline-panel">
 													<div class="media mr-2">
-														<img alt="image" width="50" src="images/avatar/1.jpg">
+														<img alt="image" width="50" src="assets/images/avatar/1.jpg">
 													</div>
 													<div class="media-body">
 														<h6 class="mb-1">Dr sultads Send you Photo</h6>
@@ -119,7 +119,7 @@
 											 <li>
 												<div class="timeline-panel">
 													<div class="media mr-2">
-														<img alt="image" width="50" src="images/avatar/1.jpg">
+														<img alt="image" width="50" src="assets/images/avatar/1.jpg">
 													</div>
 													<div class="media-body">
 														<h6 class="mb-1">Dr sultads Send you Photo</h6>
@@ -157,7 +157,7 @@
 							
                             <li class="nav-item dropdown header-profile">
                                 <a class="nav-link" href="#" role="button" data-toggle="dropdown">
-                                    <img src="images/profile/pic1.jpg" width="20" alt=""/>
+                                    <img src="assets/images/profile/pic1.jpg" width="20" alt=""/>
 									<div class="header-info">
 										<span class="fs-20 font-w500">Robertos Jr.</span>
 										<small>Super Admin</small>
@@ -268,7 +268,7 @@
 													<a href="post-details.html"><h2 class="text-black fs-14 font-w500">Chicken curry special with cucumber</h2></a>
 													<span class="text-black font-w600 d-inline-block mr-3">$5.6 </span> <span class="fs-14">Order 89x</span>
 												</div>
-												<img src="images/menu/Untitled-1.jpg" alt="">
+												<img src="assets/images/menu/Untitled-1.jpg" alt="">
 											</div>
 											<div class="d-flex pb-3 mb-3 tr-row align-items-center border-bottom">
 												<span class="num">#2</span>
@@ -276,7 +276,7 @@
 													<a href="post-details.html"><h2 class="text-black fs-14 font-w500">Italiano Pizza With Garlic</h2></a>
 													<span class="text-black font-w600 d-inline-block mr-3">$5.6 </span> <span class="fs-14">Order 89x</span>
 												</div>
-												<img src="images/menu/Untitled-2.jpg" alt="">
+												<img src="assets/images/menu/Untitled-2.jpg" alt="">
 											</div>
 											<div class="d-flex pb-3 mb-3 tr-row align-items-center border-bottom">
 												<span class="num">#3</span>
@@ -284,7 +284,7 @@
 													<a href="post-details.html"><h2 class="text-black fs-14 font-w500">Watermelon juice with ice</h2></a>
 													<span class="text-black font-w600 d-inline-block mr-3">$5.6 </span> <span class="fs-14">Order 89x</span>
 												</div>
-												<img src="images/menu/Untitled-3.jpg" alt="">
+												<img src="assets/images/menu/Untitled-3.jpg" alt="">
 											</div>
 											<div class="d-flex pb-3 mb-3  tr-row align-items-center border-bottom">
 												<span class="num">#4</span>
@@ -292,7 +292,7 @@
 													<a href="post-details.html"><h2 class="text-black fs-14 font-w500">Tuna Soup spinach with himalaya salt</h2></a>
 													<span class="text-black font-w600 d-inline-block mr-3">$5.6 </span> <span class="fs-14">Order 89x</span>
 												</div>
-												<img src="images/menu/Untitled-4.jpg" alt="">
+												<img src="assets/images/menu/Untitled-4.jpg" alt="">
 											</div>
 											<div class="d-flex pb-3 mb-3 tr-row align-items-center">
 												<span class="num">#5</span>
@@ -300,7 +300,7 @@
 													<a href="post-details.html"><h2 class="text-black fs-14 font-w500">Medium Spicy Spagethi Italiano</h2></a>
 													<span class="text-black font-w600 d-inline-block mr-3">$5.6 </span> <span class="fs-14">Order 89x</span>
 												</div>
-												<img src="images/menu/Untitled-5.jpg" alt="">
+												<img src="assets/images/menu/Untitled-5.jpg" alt="">
 											</div>
 										</div>
 									</div>
@@ -450,7 +450,7 @@
 													<tr>
 														<td>
 															<div class="media align-items-center">
-																<img class="mr-3 " width="87" src="images/card/Untitled-1.jpg" alt="DexignZone">
+																<img class="mr-3 " width="87" src="assets/images/card/Untitled-1.jpg" alt="DexignZone">
 																<div class="media-body">
 																	<h5 class="mt-0 mb-2"><a class="text-black" href="ecom-product-detail.html">Sweet Cheezy Pizza for Kids Meal (Small Size)</a></h5>
 																	<p class="mb-0 text-primary">#0010235</p>
@@ -492,7 +492,7 @@
 													<tr>
 														<td>
 															<div class="media align-items-center">
-																<img class="mr-3 " width="87" src="images/card/Untitled-2.jpg" alt="DexignZone">
+																<img class="mr-3 " width="87" src="assets/images/card/Untitled-2.jpg" alt="DexignZone">
 																<div class="media-body">
 																	<h5 class="mt-0 mb-2"><a class="text-black" href="ecom-product-detail.html">Tuna soup spinach with himalaya salt</a></h5>
 																	<p class="mb-0 text-primary">#0010235</p>
@@ -534,7 +534,7 @@
 													<tr>
 														<td>
 															<div class="media align-items-center">
-																<img class="mr-3 " width="87" src="images/card/Untitled-3.jpg" alt="DexignZone">
+																<img class="mr-3 " width="87" src="assets/images/card/Untitled-3.jpg" alt="DexignZone">
 																<div class="media-body">
 																	<h5 class="mt-0 mb-2"><a class="text-black" href="ecom-product-detail.html">Extreme Deluxe Pizza Mozarella with Garlic</a></h5>
 																	<p class="mb-0 text-primary">#0010235</p>
@@ -576,7 +576,7 @@
 													<tr>
 														<td>
 															<div class="media align-items-center">
-																<img class="mr-3 " width="87" src="images/card/Untitled-1.jpg" alt="DexignZone">
+																<img class="mr-3 " width="87" src="assets/images/card/Untitled-1.jpg" alt="DexignZone">
 																<div class="media-body">
 																	<h5 class="mt-0 mb-2"><a class="text-black" href="ecom-product-detail.html">Mozarella Pizza With Random Topping</a></h5>
 																	<p class="mb-0 text-primary">#0010235</p>
@@ -618,7 +618,7 @@
 													<tr>
 														<td>
 															<div class="media align-items-center">
-																<img class="mr-3 " width="87" src="images/card/Untitled-2.jpg" alt="DexignZone">
+																<img class="mr-3 " width="87" src="assets/images/card/Untitled-2.jpg" alt="DexignZone">
 																<div class="media-body">
 																	<h5 class="mt-0 mb-2"><a class="text-black" href="ecom-product-detail.html">Tuna soup spinach with himalaya salt</a></h5>
 																	<p class="mb-0 text-primary">#0010235</p>
@@ -709,23 +709,23 @@
         Scripts
     ***********************************-->
     
-    <script src="vendor/global/global.min.js"></script>
-	<script src="vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-	<script src="vendor/chart.js/Chart.bundle.min.js"></script>
+    <script src="assets/vendor/global/global.min.js"></script>
+	<script src="assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+	<script src="assets/vendor/chart.js/Chart.bundle.min.js"></script>
 	
 	
-    <script src="vendor/peity/jquery.peity.min.js"></script>
+    <script src="assets/vendor/peity/jquery.peity.min.js"></script>
 	
 	
-	<script src="vendor/apexchart/apexchart.js"></script>
+	<script src="assets/vendor/apexchart/apexchart.js"></script>
 	
 	
-	<script src="js/dashboard/dashboard-1.js"></script>
+	<script src="assets/js/dashboard/dashboard-1.js"></script>
 
-    <script src="js/custom.min.js"></script>
-	<script src="js/deznav-init.js"></script>
-	<script src="js/demo.js"></script>
-    <script src="js/styleSwitcher.js"></script>
+    <script src="assets/js/custom.min.js"></script>
+	<script src="assets/js/deznav-init.js"></script>
+	<script src="assets/js/demo.js"></script>
+    <script src="assets/js/styleSwitcher.js"></script>
 	
 </body>
 
