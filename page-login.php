@@ -1,4 +1,4 @@
-<html lang="am" class="h-100 translated-ltr" dir="ltr"><!-- Mirrored from uena.dexignzone.com/xhtml/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Aug 2023 15:59:25 GMT --><head>
+<html lang="am" class="h-100 translated-ltr" dir="ltr"><!-- Mirrored from uena.dexignzone.com/xhtml/login.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Aug 2023 15:59:25 GMT --><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
