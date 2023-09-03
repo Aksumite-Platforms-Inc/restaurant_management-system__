@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/message.phpindex-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:08:52 GMT -->
+<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/message.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:08:52 GMT -->
 <head>
      <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -712,19 +712,19 @@
 											</div>
 										</a>
 										<div class="dropdown-menu dropdown-menu-end">
-											<a href="app-profile.phpindex-2.php" class="dropdown-item ai-icon ">
+											<a href="app-profile.php" class="dropdown-item ai-icon ">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
 												<span class="ms-2">Profile</span>
 											</a>
-											<a href="email-inbox.phpindex-2.php" class="dropdown-item ai-icon">
+											<a href="email-inbox.php" class="dropdown-item ai-icon">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
 												<span class="ms-2">Inbox</span>
 											</a>
-											<a href="edit-profile.phpindex-2.php" class="dropdown-item ai-icon">
+											<a href="edit-profile.php" class="dropdown-item ai-icon">
 												<svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
 												<span class="ms-2">Edit Profile</span>
 											</a>
-											<a href="message.phpindex-2.php" class="dropdown-item ai-icon ">
+											<a href="message.php" class="dropdown-item ai-icon ">
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 													<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 														<rect x="0" y="0" width="24" height="24"/>
@@ -733,7 +733,7 @@
 												</svg>
 													<span class="ms-2">Message</span>
 											</a>
-											<a href="notification.phpindex-2.php" class="dropdown-item ai-icon ">
+											<a href="notification.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -743,7 +743,7 @@
 											</svg>
 											<span class="ms-2">Notification </span>
 										</a>
-										<a href="setting.phpindex-2.php" class="dropdown-item ai-icon ">
+										<a href="setting.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -753,7 +753,7 @@
 											</svg>
 											<span class="ms-2">Settings </span>
 										</a>
-											<a href="login.phpindex-2.php" class="dropdown-item ai-icon ms-1">
+											<a href="login.php" class="dropdown-item ai-icon ms-1">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
 												<span class="ms-1">Logout </span>
 											</a>
@@ -782,13 +782,13 @@
 							<span class="nav-text">ዳሽቦርድ</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="food-order.phpindex-2.php">የምግብ ማዘዣ</a></li>
-							<li><a href="favorite-menu.phpindex-2.php">ተወዳጅ ምናሌ</a></li>
-							<li><a href="message.phpindex-2.php">መልእክት</a></li>	
-							<li><a href="order-history.phpindex-2.php">የትዕዛዝ ታሪክy</a></li>	
-							<li><a href="notification.phpindex-2.php">ማስታወቂያ</a></li>	
-							<li><a href="bill.phpindex-2.php">ሂሳብ</a></li>	
-							<li><a href="setting.phpindex-2.php">ቅንብር</a></li>	
+							<li><a href="food-order.php">የምግብ ማዘዣ</a></li>
+							<li><a href="favorite-menu.php">ተወዳጅ ምናሌ</a></li>
+							<li><a href="message.php">መልእክት</a></li>	
+							<li><a href="order-history.php">የትዕዛዝ ታሪክy</a></li>	
+							<li><a href="notification.php">ማስታወቂያ</a></li>	
+							<li><a href="bill.php">ሂሳብ</a></li>	
+							<li><a href="setting.php">ቅንብር</a></li>	
 						</ul>
 
                     </li>
@@ -798,11 +798,11 @@
 							<span class="nav-text">ሬስቶራንት</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="dashboard.phpindex-2.php">ዳሽቦርድ</a></li>
-							<li><a href="menu.phpindex-2.php">ምናሌ</a></li>
-							<li><a href="orders.phpindex-2.php">ትዕዛዞች</a></li>
-							<li><a href="customer-reviews.phpindex-2.php">ግምገማዎች</a></li>
-							<li><a href="restro-setting.phpindex-2.php">ቅንብር</a></li>
+							<li><a href="dashboard.php">ዳሽቦርድ</a></li>
+							<li><a href="menu.php">ምናሌ</a></li>
+							<li><a href="orders.php">ትዕዛዞች</a></li>
+							<li><a href="customer-reviews.php">ግምገማዎች</a></li>
+							<li><a href="restro-setting.php">ቅንብር</a></li>
 							
 						</ul>
 
@@ -813,9 +813,9 @@
 							<span class="nav-text">አሽከርካሪዎች</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="deliver-main.phpindex-2.php">ዳሽቦርድ</a></li>
-							<li><a href="deliver-order.phpindex-2.php">ትዕዛዞች</a></li>
-							<li><a href="feedback.phpindex-2.php">ግብረ መልስ</a></li>
+							<li><a href="deliver-main.php">ዳሽቦርድ</a></li>
+							<li><a href="deliver-order.php">ትዕዛዞች</a></li>
+							<li><a href="feedback.php">ግብረ መልስ</a></li>
 						</ul>
 
                     </li>
@@ -1164,7 +1164,7 @@
     e.preventDefault();
     var message = $('#text-message').val();
     $('#text-message').val('');
-    var date = new Date().toJSON().slice(0,10).replace(/-/g,'../index.phpindex-2.php');
+    var date = new Date().toJSON().slice(0,10).replace(/-/g,'../index.php');
     $('.chat-mid-area').append('<div class="message-received"><div class="date">' + date + '</div><div>' + message + '</div></div>')
   })
 });
@@ -1173,5 +1173,5 @@
 
 </body>
 
-<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/message.phpindex-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:08:57 GMT -->
+<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/message.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:08:57 GMT -->
 </html>
