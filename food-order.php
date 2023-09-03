@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/food-orphp by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:09:00 GMT -->
+<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/food-or.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:09:00 GMT -->
 <head>
      <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -714,19 +714,19 @@
 											</div>
 										</a>
 										<div class="dropdown-menu dropdown-menu-end">
-											<a href="app-profphp" class="dropdown-item ai-icon ">
+											<a href="app-prof.php" class="dropdown-item ai-icon ">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
 												<span class="ms-2">መግለጫ</span>
 											</a>
-											<a href="email-inphp" class="dropdown-item ai-icon">
+											<a href="email-in.php" class="dropdown-item ai-icon">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
 												<span class="ms-2">የገቢ መልእክት ሳጥን</span>
 											</a>
-											<a href="edit-profphp" class="dropdown-item ai-icon">
+											<a href="edit-prof.php" class="dropdown-item ai-icon">
 												<svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
 												<span class="ms-2">ኤዲት መግለጫ</span>
 											</a>
-											<a href="messphp" class="dropdown-item ai-icon ">
+											<a href="mess.php" class="dropdown-item ai-icon ">
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 													<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 														<rect x="0" y="0" width="24" height="24"/>
@@ -735,7 +735,7 @@
 												</svg>
 													<span class="ms-2">መልእክት</span>
 											</a>
-											<a href="notificatphp" class="dropdown-item ai-icon ">
+											<a href="notificat.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -745,7 +745,7 @@
 											</svg>
 											<span class="ms-2">ማስታወቂያ </span>
 										</a>
-										<a href="settphp" class="dropdown-item ai-icon ">
+										<a href="sett.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -755,7 +755,7 @@
 											</svg>
 											<span class="ms-2">ቅንጅት </span>
 										</a>
-											<a href="lophp" class="dropdown-item ai-icon ms-1">
+											<a href="lo.php" class="dropdown-item ai-icon ms-1">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
 												<span class="ms-1">ይውጡ </span>
 											</a>
@@ -784,13 +784,13 @@
 							<span class="nav-text">ዳሽቦርድ</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="food-orphp">የምግብ ማዘዣ</a></li>
-							<li><a href="favorite-mphp">ተወዳጅ ምናሌ</a></li>
-							<li><a href="messphp">መልእክት</a></li>	
-							<li><a href="order-histphp">የትዕዛዝ ታሪክy</a></li>	
-							<li><a href="notificatphp">ማስታወቂያ</a></li>	
-							<li><a href="bphp">ሂሳብ</a></li>	
-							<li><a href="settphp">ቅንብር</a></li>	
+							<li><a href="food-or.php">የምግብ ማዘዣ</a></li>
+							<li><a href="favorite-m.php">ተወዳጅ ምናሌ</a></li>
+							<li><a href="mess.php">መልእክት</a></li>	
+							<li><a href="order-hist.php">የትዕዛዝ ታሪክy</a></li>	
+							<li><a href="notificat.php">ማስታወቂያ</a></li>	
+							<li><a href="b.php">ሂሳብ</a></li>	
+							<li><a href="sett.php">ቅንብር</a></li>	
 						</ul>
 
                     </li>
@@ -800,11 +800,11 @@
 							<span class="nav-text">ሬስቶራንት</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="dashbophp">ዳሽቦርድ</a></li>
-							<li><a href="mphp">ምናሌ</a></li>
-							<li><a href="ordphp">ትዕዛዞች</a></li>
-							<li><a href="customer-reviphp">ግምገማዎች</a></li>
-							<li><a href="restro-settphp">ቅንብር</a></li>
+							<li><a href="dashbo.php">ዳሽቦርድ</a></li>
+							<li><a href="m.php">ምናሌ</a></li>
+							<li><a href="ord.php">ትዕዛዞች</a></li>
+							<li><a href="customer-revi.php">ግምገማዎች</a></li>
+							<li><a href="restro-sett.php">ቅንብር</a></li>
 							
 						</ul>
 
@@ -815,9 +815,9 @@
 							<span class="nav-text">አሽከርካሪዎች</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="deliver-mphp">ዳሽቦርድ</a></li>
-							<li><a href="deliver-orphp">ትዕዛዞች</a></li>
-							<li><a href="feedbphp">ግብረ መልስ</a></li>
+							<li><a href="deliver-m.php">ዳሽቦርድ</a></li>
+							<li><a href="deliver-or.php">ትዕዛዞች</a></li>
+							<li><a href="feedb.php">ግብረ መልስ</a></li>
 						</ul>
 
                     </li>
@@ -1323,5 +1323,5 @@
 	</script>
 </body>
 
-<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/food-orphp by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:09:02 GMT -->
+<!-- Mirrored from www.fooddesk.dexignlab.com/xhtml/food-or.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 10:09:02 GMT -->
 </html>
