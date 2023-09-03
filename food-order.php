@@ -714,19 +714,19 @@
 											</div>
 										</a>
 										<div class="dropdown-menu dropdown-menu-end">
-											<a href="app-prof.php" class="dropdown-item ai-icon ">
+											<a href="app-profile.php" class="dropdown-item ai-icon ">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
 												<span class="ms-2">መግለጫ</span>
 											</a>
-											<a href="email-in.php" class="dropdown-item ai-icon">
+											<a href="email-inbox.php" class="dropdown-item ai-icon">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
 												<span class="ms-2">የገቢ መልእክት ሳጥን</span>
 											</a>
-											<a href="edit-prof.php" class="dropdown-item ai-icon">
+											<a href="edit-profile.php" class="dropdown-item ai-icon">
 												<svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
 												<span class="ms-2">ኤዲት መግለጫ</span>
 											</a>
-											<a href="mess.php" class="dropdown-item ai-icon ">
+											<a href="message.php" class="dropdown-item ai-icon ">
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 													<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 														<rect x="0" y="0" width="24" height="24"/>
@@ -735,7 +735,7 @@
 												</svg>
 													<span class="ms-2">መልእክት</span>
 											</a>
-											<a href="notificat.php" class="dropdown-item ai-icon ">
+											<a href="notification.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -745,7 +745,7 @@
 											</svg>
 											<span class="ms-2">ማስታወቂያ </span>
 										</a>
-										<a href="sett.php" class="dropdown-item ai-icon ">
+										<a href="setting.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -755,7 +755,7 @@
 											</svg>
 											<span class="ms-2">ቅንጅት </span>
 										</a>
-											<a href="lo.php" class="dropdown-item ai-icon ms-1">
+											<a href="login.php" class="dropdown-item ai-icon ms-1">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
 												<span class="ms-1">ይውጡ </span>
 											</a>
@@ -784,13 +784,13 @@
 							<span class="nav-text">ዳሽቦርድ</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="food-or.php">የምግብ ማዘዣ</a></li>
-							<li><a href="favorite-m.php">ተወዳጅ ምናሌ</a></li>
-							<li><a href="mess.php">መልእክት</a></li>	
-							<li><a href="order-hist.php">የትዕዛዝ ታሪክy</a></li>	
-							<li><a href="notificat.php">ማስታወቂያ</a></li>	
-							<li><a href="b.php">ሂሳብ</a></li>	
-							<li><a href="sett.php">ቅንብር</a></li>	
+							<li><a href="food-order.php">የምግብ ማዘዣ</a></li>
+							<li><a href="favorite-menu.php">ተወዳጅ ምናሌ</a></li>
+							<li><a href="message.php">መልእክት</a></li>	
+							<li><a href="order-history.php">የትዕዛዝ ታሪክy</a></li>	
+							<li><a href="notification.php">ማስታወቂያ</a></li>	
+							<li><a href="bill.php">ሂሳብ</a></li>	
+							<li><a href="setting.php">ቅንብር</a></li>	
 						</ul>
 
                     </li>
@@ -800,11 +800,11 @@
 							<span class="nav-text">ሬስቶራንት</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="dashbo.php">ዳሽቦርድ</a></li>
-							<li><a href="m.php">ምናሌ</a></li>
-							<li><a href="ord.php">ትዕዛዞች</a></li>
-							<li><a href="customer-revi.php">ግምገማዎች</a></li>
-							<li><a href="restro-sett.php">ቅንብር</a></li>
+							<li><a href="dashboard.php">ዳሽቦርድ</a></li>
+							<li><a href="menu.php">ምናሌ</a></li>
+							<li><a href="orders.php">ትዕዛዞች</a></li>
+							<li><a href="customer-reviews.php">ግምገማዎች</a></li>
+							<li><a href="restro-setting.php">ቅንብር</a></li>
 							
 						</ul>
 
@@ -815,9 +815,9 @@
 							<span class="nav-text">አሽከርካሪዎች</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="deliver-m.php">ዳሽቦርድ</a></li>
-							<li><a href="deliver-or.php">ትዕዛዞች</a></li>
-							<li><a href="feedb.php">ግብረ መልስ</a></li>
+							<li><a href="deliver-main.php">ዳሽቦርድ</a></li>
+							<li><a href="deliver-order.php">ትዕዛዞች</a></li>
+							<li><a href="feedback.php">ግብረ መልስ</a></li>
 						</ul>
 
                     </li>
