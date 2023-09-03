@@ -62,7 +62,7 @@
             Nav header start
         ***********************************-->
         <div class="nav-header">
-            <a href="index.html" class="brand-logo">
+            <a href="index.php" class="brand-logo">
 				<svg class="logo-abbr" width="39" height="31" viewBox="0 0 39 31" fill="none" xmlns="http://www.w3.org/2000/svg">
 					<path fill-rule="evenodd" clip-rule="evenodd" d="M25.125 21.125L26.9952 23.2623C27.6771 24.0417 28.8616 24.1206 29.6409 23.4387C29.7036 23.3839 29.7625 23.325 29.8173 23.2623L31.6875 21.125H36.375C35.2848 26.5762 30.4985 30.5 24.9393 30.5H14.0607C8.5015 30.5 3.71523 26.5762 2.625 21.125H25.125Z" fill="var(--primary)"/>
 					<path fill-rule="evenodd" clip-rule="evenodd" d="M36.375 9.875H2.625C3.71523 4.4238 8.5015 0.5 14.0607 0.5H24.9393C30.4985 0.5 35.2848 4.4238 36.375 9.875Z" fill="var(--primary)"/>
@@ -167,16 +167,16 @@
 											</div>
 										</a>
 										<div class="dropdown-menu dropdown-menu-end">
-											<a href="app-profile.html" class="dropdown-item ai-icon ">
+											<a href="app-profile.php" class="dropdown-item ai-icon ">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
 												<span class="ms-2">ፌት</span>
 											</a>
 				
-											<a href="edit-profile.html" class="dropdown-item ai-icon">
+											<a href="edit-profile.php" class="dropdown-item ai-icon">
 												<svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
 												<span class="ms-2">መገለጫ አስተካክል</span>
 											</a>
-											<a href="message.html" class="dropdown-item ai-icon ">
+											<a href="message.php" class="dropdown-item ai-icon ">
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 													<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 														<rect x="0" y="0" width="24" height="24"/>
@@ -185,7 +185,7 @@
 												</svg>
 													<span class="ms-2">መልዕክት</span>
 											</a>
-											<a href="notification.html" class="dropdown-item ai-icon ">
+											<a href="notification.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -195,7 +195,7 @@
 											</svg>
 											<span class="ms-2">ማስታወቂያ </span>
 										</a>
-										<a href="setting.html" class="dropdown-item ai-icon ">
+										<a href="setting.php" class="dropdown-item ai-icon ">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="svg-main-icon">
 												<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -205,7 +205,7 @@
 											</svg>
 											<span class="ms-2">ቅንብሮች </span>
 										</a>
-											<a href="page-login.html" class="dropdown-item ai-icon ms-1">
+											<a href="page-login.php" class="dropdown-item ai-icon ms-1">
 												<svg  xmlns="http://www.w3.org/2000/svg" class="text-primary" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
 												<span class="ms-1">ውጣ </span>
 											</a>
@@ -234,13 +234,13 @@
 							<span class="nav-text">ዳሽቦርድ</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="food-order.html">የምግብ ማዘዣ</a></li>
-							<li><a href="favorite-menu.html">ተወዳጅ ምናሌ</a></li>
-							<li><a href="message.html">መልእክት</a></li>	
-							<li><a href="order-history.html">የትዕዛዝ ታሪክy</a></li>	
-							<li><a href="notification.html">ማስታወቂያ</a></li>	
-							<li><a href="bill.html">ሂሳብ</a></li>	
-							<li><a href="setting.html">ቅንብር</a></li>	
+							<li><a href="food-order.php">የምግብ ማዘዣ</a></li>
+							<li><a href="favorite-menu.php">ተወዳጅ ምናሌ</a></li>
+							<li><a href="message.php">መልእክት</a></li>	
+							<li><a href="order-history.php">የትዕዛዝ ታሪክy</a></li>	
+							<li><a href="notification.php">ማስታወቂያ</a></li>	
+							<li><a href="bill.php">ሂሳብ</a></li>	
+							<li><a href="setting.php">ቅንብር</a></li>	
 						</ul>
 
                     </li>
@@ -250,11 +250,11 @@
 							<span class="nav-text">ሬስቶራንት</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="dashboard.html">ዳሽቦርድ</a></li>
-							<li><a href="menu.html">ምናሌ</a></li>
-							<li><a href="orders.html">ትዕዛዞች</a></li>
-							<li><a href="customer-reviews.html">ግምገማዎች</a></li>
-							<li><a href="restro-setting.html">ቅንብር</a></li>
+							<li><a href="dashboard.php">ዳሽቦርድ</a></li>
+							<li><a href="menu.php">ምናሌ</a></li>
+							<li><a href="orders.php">ትዕዛዞች</a></li>
+							<li><a href="customer-reviews.php">ግምገማዎች</a></li>
+							<li><a href="restro-setting.php">ቅንብር</a></li>
 							
 						</ul>
 
@@ -265,9 +265,9 @@
 							<span class="nav-text">አሽከርካሪዎች</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="deliver-main.html">ዳሽቦርድ</a></li>
-							<li><a href="deliver-order.html">ትዕዛዞች</a></li>
-							<li><a href="feedback.html">ግብረ መልስ</a></li>
+							<li><a href="deliver-main.php">ዳሽቦርድ</a></li>
+							<li><a href="deliver-order.php">ትዕዛዞች</a></li>
+							<li><a href="feedback.php">ግብረ መልስ</a></li>
 						</ul>
 
                     </li>
@@ -328,7 +328,7 @@
 							<div class="col-xl-12">
 								<div class="d-flex align-items-center justify-content-between mb-2 gap">
 									<h4 class=" mb-0 cate-title">ምድብ</h4>
-									<a href="favorite-menu.html" class="text-primary">ሁሉንም ይመልከቱ <i class="fa-solid fa-angle-right ms-2"></i></a>
+									<a href="favorite-menu.php" class="text-primary">ሁሉንም ይመልከቱ <i class="fa-solid fa-angle-right ms-2"></i></a>
 								</div>
 								<div class="swiper mySwiper-2">
 								  <div class="swiper-wrapper">
@@ -537,7 +537,7 @@
 							<div class="col-xl-12">
 								<div class="d-flex align-items-center justify-content-between mb-2">
 									<h4 class=" mb-0 cate-title">ተወዳጅ ምግቦች</h4>
-									<a href="favorite-menu.html" class="text-primary">ሁሉንም ይመልከቱ <i class="fa-solid fa-angle-right ms-2"></i></a>
+									<a href="favorite-menu.php" class="text-primary">ሁሉንም ይመልከቱ <i class="fa-solid fa-angle-right ms-2"></i></a>
 								</div>
 								<div class="swiper mySwiper-3">
 									<div class="swiper-wrapper">
@@ -824,7 +824,7 @@
 							<div class="col-xl-12">
 								<div class="d-flex align-items-center justify-content-between mb-2">
 									<h4 class=" mb-0 cate-title">የቅርብ ጊዜ ትዕዛዝ</h4>
-									<a href="favorite-menu.html" class="text-primary">ሁሉንም ይመልከቱ <i class="fa-solid fa-angle-right ms-2"></i></a>
+									<a href="favorite-menu.php" class="text-primary">ሁሉንም ይመልከቱ <i class="fa-solid fa-angle-right ms-2"></i></a>
 								</div>
 								
 							</div>
@@ -924,7 +924,7 @@
 											<h4 class="font-w500">ድምር</h4>
 											<h3 class="font-w500 text-primary">$202.00</h3>
 										</div>
-										<a href="checkout-page.html" class="btn btn-primary btn-block">ጨርሰህ ውጣ</a>
+										<a href="checkout-page.php" class="btn btn-primary btn-block">ጨርሰህ ውጣ</a>
 									</div>
 								</div>
 							</div>
@@ -1091,7 +1091,7 @@
     
     <script src="assets/vendor/global/global.min.js"></script>
 	<script src="assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-	<script src="page-error-404.html"></script>
+	<script src="page-error-404.php"></script>
 	<script src="assets/vendor/swiper/js/swiper-bundle.min.js"></script>
 	<script src="assets/vendor/jquery-nice-select/js/jquery.nice-select.min.js"></script> 
 	<script src="assets/js/dlabnav-init.js"></script>
