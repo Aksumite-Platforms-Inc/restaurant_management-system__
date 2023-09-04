@@ -1121,7 +1121,7 @@
 	<script src="assets/js/dlabnav-init.js"></script>
     <script src="assets/js/custom.js"></script>
 	<script src="assets/js/demo.js"></script>
-    <script src="assets/js/styleSwitcher.js"></script>
+    <!-- <script src="assets/js/styleSwitcher.js"></script> -->
 	<script>
 	
 	
